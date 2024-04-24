@@ -1,0 +1,15 @@
+Készíts:
+Téglalap osztály:
+- adattagjai (privát):
+  - a és b oldal
+- metódusai:
+ - kerület, terület
+- legyen getter (és setter) az adattagokra
+
+index.html
+- téglalap létrehozó űrlap
+- téglalapok kiírása táblázatba 
+    - űrlapon megadott téglalpok
+    - csak az oldal újratöltéséig kell megjelenniük.
+    - táblázat oszlopai: a, b, kerület, terület
+- használd fel a létrehozott osztályt
